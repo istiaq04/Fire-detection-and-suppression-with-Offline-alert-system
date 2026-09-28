@@ -366,7 +366,7 @@ This is a student prototype. It is not a certified fire safety device and must n
 
 Do not commit your real phone number to a public repository. Keep the placeholder in the code you publish. The ntfy topic name is stored only in your browser, never in the files.
 
-## Author
+## Author.
 
 Istiaq Ahmed Srabon, CSE, Southeast University.
 
